@@ -1,0 +1,9 @@
+{
+  "name": "testing-app",
+  "version": "0.1.0",
+  "description": "Testing system for Tech Connect",
+  "main": "index.js",
+  "repository": "https://github.com/nypltechconnect/testing-app.git",
+  "author": "Tech Connect",
+  "license": "MIT"
+}
